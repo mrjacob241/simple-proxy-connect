@@ -8,6 +8,14 @@ Simple Proxy Connect
 
 This simple (but fully working) plain Python proxy can navigate in all the modern HTTPS sites like: Google, Facebook, Twitter, Youtube, etc.
 
+## Requirements
+
+This code make use of the library [PySimpleGUI](https://www.pysimplegui.org/en/latest/). You can install it using:
+```
+pip install PySimpleGUI
+```
+
+
 ## Usage
 
 * Run one of the following lines of code:
@@ -24,3 +32,4 @@ python proxy_connect_ua.py
 This project is based on:
 * [MinimalPythonProxy](https://github.com/mrprofessor/MinimalPythonProxy)
 * [HTTPS CONNECT integration](https://stackoverflow.com/questions/24218058/python-https-proxy-tunnelling)
+* [ANSI color codes]([https://stackoverflow.com/questions/24218058/python-https-proxy-tunnelling](https://gist.github.com/rene-d/9e584a7dd2935d0f461904b9f2950007))
