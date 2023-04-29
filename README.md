@@ -32,4 +32,4 @@ python proxy_connect_ua.py
 This project is based on:
 * [MinimalPythonProxy](https://github.com/mrprofessor/MinimalPythonProxy)
 * [HTTPS CONNECT integration](https://stackoverflow.com/questions/24218058/python-https-proxy-tunnelling)
-* [ANSI color codes]([https://stackoverflow.com/questions/24218058/python-https-proxy-tunnelling](https://gist.github.com/rene-d/9e584a7dd2935d0f461904b9f2950007))
+* [ANSI color codes](https://gist.github.com/rene-d/9e584a7dd2935d0f461904b9f2950007)
