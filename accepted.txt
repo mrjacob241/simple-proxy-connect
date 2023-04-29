@@ -1,0 +1,5 @@
+[ACCEPTED] connections:
+[ALLOWED] www.google.com
+[ALLOWED] www.youtube.com
+[ALLOWED] www.youtube.com
+[ALLOWED] www.youtube.com
