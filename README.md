@@ -2,6 +2,8 @@
 Simple Proxy Connect  
 ⚠️ **Work in progress!** ⚠️
 
+⚠️ **DISCLAIMER** ⚠️: This project has not received any funding and the author declares that has not and will not receive any profit by the code below (in any form: payments, courses, ads revenue, etc.).  For this reason, the author (in accordance the current European law) declines any possible responsibility in case of: misuses, vulnerabilities and any damage caused by the adoption of the code inside this repository. 
+
 # Simple Python HTTPS Proxy (method CONNECT ✅)
 
 This simple (but fully working) plain Python proxy can navigate in all the modern HTTPS sites like: Google, Facebook, Twitter, Youtube, etc.
@@ -10,17 +12,8 @@ This simple (but fully working) plain Python proxy can navigate in all the moder
 
 * Run one of the following lines of code:
 ```
-python proxy_connect_working.py
-```
-```
-python proxy_log.py --log_file="logs/logs.txt"
-```
-```
-python proxy_log.py --log_file="logs/logs.txt" --detail="packets"
-```
-```
-python proxy_log.py --log_file="logs/logs.txt" --detail="packets" --analysis="traffic"
-```
+python proxy_connect_ua.py
+
 
 * Setup your browser/OS proxy settings to listen on adrress *127.0.0.1* and port *8000* 
 
